@@ -5,7 +5,13 @@ PAMA
 ​		1/14/2022 Thanks to github user [AK391](https://github.com/AK391) for making a [web demo](https://huggingface.co/spaces/akhaliq/PAMA) for PAMA.
 
 ​		1/18/2022 New checkpoints are available. (w/o color loss, 1.5x color loss weight, 1.5x content loss weight)
+## Sponsor
+We are proudly sponsored by DartNode.  DartNode supports our project by providing [mention the specific support they offer, such as infrastructure, services, etc.].
+websize:https://dartnode.com
 
+[![DartNode Logo](https://app.dartnode.com/assets/dash/images/brand/favicon.png)](https://dartnode.com)
+
+Please consider supporting DartNode as they are not only supporting us but also contributing to the open-source community.
 # This sub runs perfectly on DartNode!
 
 <a href="https://dartnode.com/?via=benny"><img src="https://github.com/cmliu/WorkerVless2sub/assets/24787744/b4eac86c-011b-48bc-b490-b2820622e4a0" width="500px"  alt="DartNode"/></a>
