@@ -6,6 +6,11 @@ PAMA
 
 ​		1/18/2022 New checkpoints are available. (w/o color loss, 1.5x color loss weight, 1.5x content loss weight)
 
+# This sub runs perfectly on DartNode!
+
+<a href="https://dartnode.com/?via=benny"><img src="https://github.com/cmliu/WorkerVless2sub/assets/24787744/b4eac86c-011b-48bc-b490-b2820622e4a0" width="500px"  alt="DartNode"/></a>
+
+Find out more on [DartNode](https://dartnode.com)
 
 ## Requirements
 
